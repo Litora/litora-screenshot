@@ -1,0 +1,10 @@
+name = "litora-screenshot"
+main = "src/index.ts"
+compatibility_date = "2025-08-16"
+
+[observability]
+enabled = true
+
+[[kv_namespaces]]
+binding = "IMAGES"
+id = "5814478b6ed440668ec19b07b5760238"
