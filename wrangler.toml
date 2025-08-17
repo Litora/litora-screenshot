@@ -2,6 +2,8 @@ name = "litora-screenshot"
 main = "src/index.ts"
 compatibility_date = "2025-08-16"
 
+account_id = "641026e0b6ea7699bb5b7f599727e403"
+
 [observability]
 enabled = true
 
