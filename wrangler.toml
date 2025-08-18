@@ -1,4 +1,4 @@
-name = "litora-screenshot"
+name = "site-screenshot"
 main = "src/index.ts"
 compatibility_date = "2025-08-16"
 
